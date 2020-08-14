@@ -1,9 +1,5 @@
-int day = 4;
-int a=3;
-int b=21;
-switch (day) {
-  case 1:
-  	int c=0;
-  	c=a+b
-    System.out.println("Addition :"+c);
-    break;
+int c = 0;
+int a = 5;
+int b = 8;
+int c = a - b;
+System.out.println ("subtraction: " + c);
